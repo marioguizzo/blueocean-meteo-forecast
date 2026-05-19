@@ -34,26 +34,6 @@ async function carregarCSV() {
 
 //////////////////////////////////////////////////////////////////
 
-function obterCorRisco(risco) {
-
-    risco = risco?.toLowerCase()
-
-    if (risco === "verde") {
-
-        return "#00c853"
-
-    } else if (risco === "amarelo") {
-
-        return "#ffd600"
-
-    } else {
-
-        return "#ff1744"
-    }
-}
-
-//////////////////////////////////////////////////////////////////
-
 function montarCards(dados) {
 
     const grid =
@@ -90,6 +70,7 @@ function montarCards(dados) {
 
         const risco =
             previsoes[0].risco
+                ?.toLowerCase()
 
         //////////////////////////////////////////////////////////
 
@@ -99,7 +80,7 @@ function montarCards(dados) {
         //////////////////////////////////////////////////////////
 
         card.className =
-            `card ${risco?.toLowerCase()}`
+            `card ${risco}`
 
         //////////////////////////////////////////////////////////
 
@@ -114,14 +95,26 @@ function montarCards(dados) {
         previsoes.forEach(p => {
 
             //////////////////////////////////////////////////////
-            // CORES
+            // UV
             //////////////////////////////////////////////////////
 
-            const corUV =
-                obterCorRisco(p.risco_uv)
+            let corUV = ""
 
-            const corRaios =
-                obterCorRisco(p.risco)
+            const uv =
+                Number(p.uv)
+
+            if (uv <= 5) {
+
+                corUV = "#00c853"
+
+            } else if (uv <= 10) {
+
+                corUV = "#ffd600"
+
+            } else {
+
+                corUV = "#ff1744"
+            }
 
             //////////////////////////////////////////////////////
             // CHUVA
@@ -129,16 +122,14 @@ function montarCards(dados) {
 
             let corChuva = ""
 
-            if (
-                p.condicao === "Sem chuva"
-            ) {
+            const precipitacao =
+                Number(p.precipitacao)
+
+            if (precipitacao < 10) {
 
                 corChuva = "#00c853"
 
-            } else if (
-                p.condicao === "Chuva fraca" ||
-                p.condicao === "Chuva moderada"
-            ) {
+            } else if (precipitacao <= 25) {
 
                 corChuva = "#ffd600"
 
@@ -167,6 +158,50 @@ function montarCards(dados) {
             } else {
 
                 corVento = "#ff1744"
+            }
+
+            //////////////////////////////////////////////////////
+            // UMIDADE
+            //////////////////////////////////////////////////////
+
+            let corUR = ""
+
+            const ur =
+                Number(p.umidade)
+
+            if (ur >= 40) {
+
+                corUR = "#00c853"
+
+            } else if (ur >= 12) {
+
+                corUR = "#ffd600"
+
+            } else {
+
+                corUR = "#ff1744"
+            }
+
+            //////////////////////////////////////////////////////
+            // ALERTA / RAIOS
+            //////////////////////////////////////////////////////
+
+            let corRaios = ""
+
+            const risco =
+                p.risco?.toLowerCase()
+
+            if (risco === "verde") {
+
+                corRaios = "#00c853"
+
+            } else if (risco === "amarelo") {
+
+                corRaios = "#ffd600"
+
+            } else {
+
+                corRaios = "#ff1744"
             }
 
             //////////////////////////////////////////////////////
@@ -201,6 +236,13 @@ font-weight:bold;
 ">
 ☀️ UV: ${p.uv}
 (${p.categoria_uv})
+</span><br>
+
+<span style="
+color:${corUR};
+font-weight:bold;
+">
+💧 UR: ${p.umidade}%
 </span><br>
 
 <span style="
