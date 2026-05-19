@@ -35,7 +35,7 @@ jobs:
       - name: Executar processamento
         run: |
 
-          python processamento.py
+          python Processamento.py
 
       - name: Commitar CSV atualizado
         run: |
