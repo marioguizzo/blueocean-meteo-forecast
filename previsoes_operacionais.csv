@@ -1,161 +1,201 @@
 ﻿estacao,data,condicao,temp_min,temp_max,umidade,uv,categoria_uv,risco_uv,precipitacao,prob_chuva,vento,rajada,direcao,prob_raios,risco
 UTE Termocamaçari - UTE TCA,19/05/2026,Sem chuva,22,29,59,7,Alto,Amarelo,0.28,54,7,24,SE,35,Amarelo
 UTE Termocamaçari - UTE TCA,20/05/2026,Chuva fraca,22,28,67,7,Alto,Amarelo,2.6,76,7,25,SE,48,Amarelo
-UTE Termocamaçari - UTE TCA,21/05/2026,Chuva fraca,22,28,72,5,Moderado,Verde,3.92,64,8,27,S,46,Amarelo
-UTE Termocamaçari - UTE TCA,22/05/2026,Sem chuva,23,23,92,0,Baixo,Verde,0.76,29,6,15,SE,21,Verde
+UTE Termocamaçari - UTE TCA,21/05/2026,Chuva fraca,22,28,72,5,Moderado,Verde,3.92,64,8,27,S,46,Verde
+UTE Termocamaçari - UTE TCA,22/05/2026,Chuva fraca,22,27,71,7,Alto,Amarelo,4.06,72,9,29,SE,49,Amarelo
+UTE Termocamaçari - UTE TCA,23/05/2026,Sem chuva,23,23,90,0,Baixo,Verde,0.3,47,9,20,SE,31,Verde
 UTE Termobahia - UTE TBA,19/05/2026,Sem chuva,22,30,58,7,Alto,Amarelo,0.34,38,6,25,SE,29,Amarelo
 UTE Termobahia - UTE TBA,20/05/2026,Chuva fraca,22,28,67,6,Alto,Amarelo,2.58,80,6,25,SE,51,Amarelo
-UTE Termobahia - UTE TBA,21/05/2026,Chuva fraca,22,28,70,5,Moderado,Verde,8.9,42,8,27,S,36,Amarelo
-UTE Termobahia - UTE TBA,22/05/2026,Sem chuva,23,24,91,0,Baixo,Verde,0.74,24,6,16,SE,19,Verde
-UTE Termoceará - UTE TCE,19/05/2026,Sem chuva,24,31,55,8,Muito Alto,Vermelho,0.1,21,10,32,SE,30,Amarelo
-UTE Termoceará - UTE TCE,20/05/2026,Sem chuva,24,32,54,8,Muito Alto,Vermelho,0.0,1,10,30,SE,20,Amarelo
-UTE Termoceará - UTE TCE,21/05/2026,Sem chuva,24,32,54,8,Muito Alto,Vermelho,0.12,24,10,30,SE,33,Amarelo
-UTE Termoceará - UTE TCE,22/05/2026,Sem chuva,25,25,88,0,Baixo,Verde,0.0,4,6,13,E,16,Verde
-UTE Vale do Açu - UTE VLA,19/05/2026,Sem chuva,22,32,46,8,Muito Alto,Vermelho,0.0,0,10,28,SE,18,Amarelo
-UTE Vale do Açu - UTE VLA,20/05/2026,Sem chuva,23,33,46,8,Muito Alto,Vermelho,0.02,3,12,30,SE,26,Amarelo
-UTE Vale do Açu - UTE VLA,21/05/2026,Sem chuva,22,33,48,8,Muito Alto,Vermelho,0.2,10,10,33,SE,29,Amarelo
-UTE Vale do Açu - UTE VLA,22/05/2026,Sem chuva,25,26,76,0,Baixo,Verde,0.0,1,13,27,E,15,Verde
-Refinaria Abreu e Lima - RNEST,19/05/2026,Sem chuva,22,29,63,8,Muito Alto,Vermelho,0.34,34,9,24,S,28,Amarelo
-Refinaria Abreu e Lima - RNEST,20/05/2026,Chuva fraca,23,28,65,8,Muito Alto,Vermelho,1.14,60,10,27,S,40,Amarelo
-Refinaria Abreu e Lima - RNEST,21/05/2026,Sem chuva,23,28,66,8,Muito Alto,Vermelho,0.52,40,10,26,S,34,Amarelo
-Refinaria Abreu e Lima - RNEST,22/05/2026,Sem chuva,23,24,84,0,Baixo,Verde,0.0,6,9,16,S,11,Verde
-Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,19/05/2026,Sem chuva,22,27,69,5,Moderado,Verde,0.46,65,8,20,S,44,Amarelo
-Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,20/05/2026,Chuva fraca,22,26,73,5,Moderado,Verde,2.4,80,8,21,S,53,Amarelo
+UTE Termobahia - UTE TBA,21/05/2026,Chuva fraca,22,28,70,5,Moderado,Verde,8.9,42,8,27,S,36,Verde
+UTE Termobahia - UTE TBA,22/05/2026,Chuva fraca,22,27,72,7,Alto,Amarelo,4.42,66,9,30,SE,47,Amarelo
+UTE Termobahia - UTE TBA,23/05/2026,Sem chuva,23,24,89,0,Baixo,Verde,0.28,52,7,19,SE,32,Verde
+UTE Termoceará - UTE TCE,19/05/2026,Sem chuva,24,31,55,8,Muito Alto,Amarelo,0.1,21,10,32,SE,30,Amarelo
+UTE Termoceará - UTE TCE,20/05/2026,Sem chuva,24,32,54,8,Muito Alto,Amarelo,0.0,1,10,30,SE,20,Amarelo
+UTE Termoceará - UTE TCE,21/05/2026,Sem chuva,24,32,54,8,Muito Alto,Amarelo,0.12,24,10,30,SE,33,Amarelo
+UTE Termoceará - UTE TCE,22/05/2026,Sem chuva,25,32,53,8,Muito Alto,Amarelo,0.06,14,10,31,SE,30,Amarelo
+UTE Termoceará - UTE TCE,23/05/2026,Sem chuva,26,26,83,0,Baixo,Verde,0.16,6,7,13,E,15,Verde
+UTE Vale do Açu - UTE VLA,19/05/2026,Sem chuva,22,32,46,8,Muito Alto,Amarelo,0.0,0,10,28,SE,18,Amarelo
+UTE Vale do Açu - UTE VLA,20/05/2026,Sem chuva,23,33,46,8,Muito Alto,Amarelo,0.02,3,12,30,SE,26,Amarelo
+UTE Vale do Açu - UTE VLA,21/05/2026,Sem chuva,22,33,48,8,Muito Alto,Amarelo,0.2,10,10,33,SE,29,Amarelo
+UTE Vale do Açu - UTE VLA,22/05/2026,Sem chuva,23,33,44,8,Muito Alto,Amarelo,0.0,4,10,28,SE,19,Amarelo
+UTE Vale do Açu - UTE VLA,23/05/2026,Sem chuva,26,27,68,0,Baixo,Verde,0.0,0,15,29,E,15,Amarelo
+Refinaria Abreu e Lima - RNEST,19/05/2026,Sem chuva,22,29,63,8,Muito Alto,Amarelo,0.34,34,9,24,S,28,Amarelo
+Refinaria Abreu e Lima - RNEST,20/05/2026,Chuva fraca,23,28,65,8,Muito Alto,Amarelo,1.14,60,10,27,S,40,Amarelo
+Refinaria Abreu e Lima - RNEST,21/05/2026,Sem chuva,23,28,66,8,Muito Alto,Amarelo,0.52,40,10,26,S,34,Amarelo
+Refinaria Abreu e Lima - RNEST,22/05/2026,Sem chuva,22,28,66,8,Muito Alto,Amarelo,0.22,26,12,33,S,30,Amarelo
+Refinaria Abreu e Lima - RNEST,23/05/2026,Sem chuva,24,24,83,0,Baixo,Verde,0.08,28,11,21,S,22,Verde
+Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,19/05/2026,Sem chuva,22,27,69,5,Moderado,Verde,0.46,65,8,20,S,44,Verde
+Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,20/05/2026,Chuva fraca,22,26,73,5,Moderado,Verde,2.4,80,8,21,S,53,Verde
 Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,21/05/2026,Chuva fraca,21,24,77,4,Moderado,Verde,3.78,100,13,30,SO,61,Amarelo
-Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,22/05/2026,Chuva fraca,21,22,92,0,Baixo,Verde,2.46,100,15,26,SO,54,Amarelo
-Unidade de Tratamento de Gás de Cacimbas - UTGC,19/05/2026,Sem chuva,22,27,73,5,Moderado,Verde,0.92,50,7,19,SO,43,Amarelo
+Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,22/05/2026,Chuva moderada,20,22,82,2,Baixo,Verde,10.16,100,12,27,SO,54,Amarelo
+Unidade de Tratamento de Gás Sul Capixaba - UTGSUL,23/05/2026,Sem chuva,21,21,89,0,Baixo,Verde,0.34,47,6,10,O,24,Verde
+Unidade de Tratamento de Gás de Cacimbas - UTGC,19/05/2026,Sem chuva,22,27,73,5,Moderado,Verde,0.92,50,7,19,SO,43,Verde
 Unidade de Tratamento de Gás de Cacimbas - UTGC,20/05/2026,Chuva fraca,23,27,76,6,Alto,Amarelo,1.6,74,6,18,S,50,Amarelo
 Unidade de Tratamento de Gás de Cacimbas - UTGC,21/05/2026,Chuva fraca,23,25,81,5,Moderado,Verde,5.34,68,12,35,S,54,Amarelo
-Unidade de Tratamento de Gás de Cacimbas - UTGC,22/05/2026,Sem chuva,24,24,86,0,Baixo,Verde,0.92,85,19,34,S,55,Amarelo
-Refinaria Duque de Caxias - REDUC,19/05/2026,Chuva fraca,22,24,79,1,Baixo,Verde,1.96,68,7,24,O,42,Amarelo
-Refinaria Duque de Caxias - REDUC,20/05/2026,Chuva fraca,21,23,83,2,Baixo,Verde,6.28,89,5,16,O,49,Amarelo
-Refinaria Duque de Caxias - REDUC,21/05/2026,Chuva fraca,20,21,86,0,Baixo,Verde,9.92,98,5,19,SO,52,Amarelo
-Refinaria Duque de Caxias - REDUC,22/05/2026,Sem chuva,19,20,88,0,Baixo,Verde,0.06,44,4,8,SO,22,Verde
-UTE Termorio - UTE TRI,19/05/2026,Chuva fraca,22,24,78,1,Baixo,Verde,1.96,68,6,20,O,41,Amarelo
-UTE Termorio - UTE TRI,20/05/2026,Chuva fraca,21,23,82,2,Baixo,Verde,6.22,89,5,15,O,48,Amarelo
+Unidade de Tratamento de Gás de Cacimbas - UTGC,22/05/2026,Chuva moderada,23,25,74,1,Baixo,Verde,11.88,94,20,40,S,62,Amarelo
+Unidade de Tratamento de Gás de Cacimbas - UTGC,23/05/2026,Chuva fraca,23,23,84,0,Baixo,Verde,1.12,58,17,33,SE,41,Amarelo
+Refinaria Duque de Caxias - REDUC,19/05/2026,Chuva fraca,22,24,79,1,Baixo,Verde,1.96,68,7,24,O,42,Verde
+Refinaria Duque de Caxias - REDUC,20/05/2026,Chuva fraca,21,23,83,2,Baixo,Verde,6.28,89,5,16,O,49,Verde
+Refinaria Duque de Caxias - REDUC,21/05/2026,Chuva fraca,20,21,86,0,Baixo,Verde,9.92,98,5,19,SO,52,Verde
+Refinaria Duque de Caxias - REDUC,22/05/2026,Sem chuva,19,22,71,5,Moderado,Verde,0.24,44,4,15,SO,25,Verde
+Refinaria Duque de Caxias - REDUC,23/05/2026,Sem chuva,20,20,86,0,Baixo,Verde,0.0,17,3,10,S,11,Verde
+UTE Termorio - UTE TRI,19/05/2026,Chuva fraca,22,24,78,1,Baixo,Verde,1.96,68,6,20,O,41,Verde
+UTE Termorio - UTE TRI,20/05/2026,Chuva fraca,21,23,82,2,Baixo,Verde,6.22,89,5,15,O,48,Verde
 UTE Termorio - UTE TRI,21/05/2026,Chuva moderada,20,22,87,0,Baixo,Verde,10.06,98,5,17,SO,51,Amarelo
-UTE Termorio - UTE TRI,22/05/2026,Sem chuva,19,20,89,0,Baixo,Verde,0.06,44,4,7,SO,21,Verde
-Unidade de Tratamento de Gás de Itaboraí - UTGITB,19/05/2026,Chuva fraca,22,24,84,1,Baixo,Verde,2.24,87,5,20,O,50,Amarelo
-Unidade de Tratamento de Gás de Itaboraí - UTGITB,20/05/2026,Chuva fraca,20,23,85,2,Baixo,Verde,6.54,90,5,16,O,51,Amarelo
-Unidade de Tratamento de Gás de Itaboraí - UTGITB,21/05/2026,Chuva fraca,19,21,87,0,Baixo,Verde,7.7,98,5,19,O,52,Amarelo
-Unidade de Tratamento de Gás de Itaboraí - UTGITB,22/05/2026,Sem chuva,19,19,92,0,Baixo,Verde,0.12,58,3,6,S,26,Verde
-Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,19/05/2026,Chuva fraca,22,26,73,4,Moderado,Verde,2.24,88,6,20,SO,53,Amarelo
-Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,20/05/2026,Chuva fraca,21,23,82,3,Moderado,Verde,4.44,95,8,18,SO,53,Amarelo
+UTE Termorio - UTE TRI,22/05/2026,Sem chuva,19,22,72,5,Moderado,Verde,0.24,44,4,12,SO,24,Verde
+UTE Termorio - UTE TRI,23/05/2026,Sem chuva,20,21,86,0,Baixo,Verde,0.0,17,2,6,S,9,Verde
+Unidade de Tratamento de Gás de Itaboraí - UTGITB,19/05/2026,Chuva fraca,22,24,84,1,Baixo,Verde,2.24,87,5,20,O,50,Verde
+Unidade de Tratamento de Gás de Itaboraí - UTGITB,20/05/2026,Chuva fraca,20,23,85,2,Baixo,Verde,6.54,90,5,16,O,51,Verde
+Unidade de Tratamento de Gás de Itaboraí - UTGITB,21/05/2026,Chuva fraca,19,21,87,0,Baixo,Verde,7.7,98,5,19,O,52,Verde
+Unidade de Tratamento de Gás de Itaboraí - UTGITB,22/05/2026,Sem chuva,18,23,71,5,Moderado,Verde,0.64,58,3,13,SE,30,Verde
+Unidade de Tratamento de Gás de Itaboraí - UTGITB,23/05/2026,Sem chuva,20,20,92,0,Baixo,Verde,0.0,5,2,5,E,4,Verde
+Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,19/05/2026,Chuva fraca,22,26,73,4,Moderado,Verde,2.24,88,6,20,SO,53,Verde
+Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,20/05/2026,Chuva fraca,21,23,82,3,Moderado,Verde,4.44,95,8,18,SO,53,Verde
 Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,21/05/2026,Chuva fraca,20,23,84,2,Baixo,Verde,6.62,92,12,30,SO,56,Amarelo
-Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,22/05/2026,Sem chuva,20,20,83,0,Baixo,Verde,0.06,44,12,21,SO,28,Verde
-UTE Termomacaé - UTE TMA,19/05/2026,Chuva fraca,21,26,74,4,Moderado,Verde,2.94,100,5,18,SO,59,Amarelo
-UTE Termomacaé - UTE TMA,20/05/2026,Chuva fraca,22,24,84,3,Moderado,Verde,5.98,97,5,14,SO,52,Amarelo
-UTE Termomacaé - UTE TMA,21/05/2026,Chuva fraca,20,23,87,1,Baixo,Verde,7.48,94,8,24,SO,53,Amarelo
-UTE Termomacaé - UTE TMA,22/05/2026,Sem chuva,19,19,85,0,Baixo,Verde,0.14,40,9,18,SO,25,Verde
-UTE Seropédica/Baixada Fluminense - UTE SRP/BF,19/05/2026,Chuva fraca,21,23,85,1,Baixo,Verde,1.94,74,4,19,SO,43,Amarelo
-UTE Seropédica/Baixada Fluminense - UTE SRP/BF,20/05/2026,Chuva fraca,20,23,81,4,Moderado,Verde,5.72,94,4,18,SO,51,Amarelo
-UTE Seropédica/Baixada Fluminense - UTE SRP/BF,21/05/2026,Chuva fraca,19,21,86,0,Baixo,Verde,8.54,98,5,22,S,52,Amarelo
-UTE Seropédica/Baixada Fluminense - UTE SRP/BF,22/05/2026,Sem chuva,19,19,89,0,Baixo,Verde,0.04,25,3,6,S,13,Verde
+Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,22/05/2026,Sem chuva,19,22,74,2,Baixo,Verde,0.2,44,8,21,SO,28,Verde
+Unidade de Tratamento de Gás de Cabiúnas - UTGCAB,23/05/2026,Sem chuva,20,20,90,0,Baixo,Verde,0.1,24,4,9,O,14,Verde
+UTE Termomacaé - UTE TMA,19/05/2026,Chuva fraca,21,26,74,4,Moderado,Verde,2.94,100,5,18,SO,59,Verde
+UTE Termomacaé - UTE TMA,20/05/2026,Chuva fraca,22,24,84,3,Moderado,Verde,5.98,97,5,14,SO,52,Verde
+UTE Termomacaé - UTE TMA,21/05/2026,Chuva fraca,20,23,87,1,Baixo,Verde,7.48,94,8,24,SO,53,Verde
+UTE Termomacaé - UTE TMA,22/05/2026,Sem chuva,19,23,73,3,Moderado,Verde,0.36,40,6,18,SO,25,Verde
+UTE Termomacaé - UTE TMA,23/05/2026,Sem chuva,20,20,90,0,Baixo,Verde,0.18,22,4,8,NO,13,Verde
+UTE Seropédica/Baixada Fluminense - UTE SRP/BF,19/05/2026,Chuva fraca,21,23,85,1,Baixo,Verde,1.94,74,4,19,SO,43,Verde
+UTE Seropédica/Baixada Fluminense - UTE SRP/BF,20/05/2026,Chuva fraca,20,23,81,4,Moderado,Verde,5.72,94,4,18,SO,51,Verde
+UTE Seropédica/Baixada Fluminense - UTE SRP/BF,21/05/2026,Chuva fraca,19,21,86,0,Baixo,Verde,8.54,98,5,22,S,52,Verde
+UTE Seropédica/Baixada Fluminense - UTE SRP/BF,22/05/2026,Sem chuva,18,22,76,5,Moderado,Verde,0.4,25,3,11,S,15,Verde
+UTE Seropédica/Baixada Fluminense - UTE SRP/BF,23/05/2026,Sem chuva,19,20,90,0,Baixo,Verde,0.0,10,2,5,SO,6,Verde
 Refinaria Gabriel Passos - REGAP,19/05/2026,Chuva fraca,19,26,62,6,Alto,Amarelo,3.0,85,4,16,S,56,Amarelo
 Refinaria Gabriel Passos - REGAP,20/05/2026,Chuva fraca,19,25,70,6,Alto,Amarelo,5.6,78,5,19,SE,57,Amarelo
 Refinaria Gabriel Passos - REGAP,21/05/2026,Chuva fraca,17,25,66,6,Alto,Amarelo,3.46,90,5,16,SE,55,Amarelo
-Refinaria Gabriel Passos - REGAP,22/05/2026,Sem chuva,19,19,88,0,Baixo,Verde,0.14,18,8,18,SE,18,Verde
+Refinaria Gabriel Passos - REGAP,22/05/2026,Sem chuva,17,23,65,6,Alto,Amarelo,0.14,28,8,22,E,24,Amarelo
+Refinaria Gabriel Passos - REGAP,23/05/2026,Sem chuva,18,18,85,0,Baixo,Verde,0.0,2,8,16,E,8,Verde
 UTE Ibirité - UTE IBT,19/05/2026,Chuva fraca,19,26,62,6,Alto,Amarelo,3.0,85,4,16,S,56,Amarelo
 UTE Ibirité - UTE IBT,20/05/2026,Chuva fraca,19,25,71,6,Alto,Amarelo,5.6,78,5,19,SE,57,Amarelo
 UTE Ibirité - UTE IBT,21/05/2026,Chuva fraca,18,25,66,6,Alto,Amarelo,3.46,90,5,16,SE,55,Amarelo
-UTE Ibirité - UTE IBT,22/05/2026,Sem chuva,19,20,88,0,Baixo,Verde,0.14,18,8,18,SE,18,Verde
-UTE Juiz de Fora - UTE JF,19/05/2026,Chuva fraca,18,22,82,3,Moderado,Verde,5.0,100,4,16,S,62,Amarelo
-UTE Juiz de Fora - UTE JF,20/05/2026,Chuva fraca,17,22,82,3,Moderado,Verde,6.12,100,4,15,S,60,Amarelo
+UTE Ibirité - UTE IBT,22/05/2026,Sem chuva,17,23,65,6,Alto,Amarelo,0.14,28,8,22,E,24,Amarelo
+UTE Ibirité - UTE IBT,23/05/2026,Sem chuva,18,19,85,0,Baixo,Verde,0.0,2,8,16,E,8,Verde
+UTE Juiz de Fora - UTE JF,19/05/2026,Chuva fraca,18,22,82,3,Moderado,Verde,5.0,100,4,16,S,62,Verde
+UTE Juiz de Fora - UTE JF,20/05/2026,Chuva fraca,17,22,82,3,Moderado,Verde,6.12,100,4,15,S,60,Verde
 UTE Juiz de Fora - UTE JF,21/05/2026,Chuva fraca,16,21,77,4,Moderado,Verde,1.1,98,9,32,S,60,Amarelo
-UTE Juiz de Fora - UTE JF,22/05/2026,Sem chuva,15,15,89,0,Baixo,Verde,0.14,7,11,27,S,16,Verde
-UTE Três Lagoas - UTE TLG,19/05/2026,Sem chuva,16,21,71,6,Alto,Amarelo,0.92,40,8,20,SO,27,Verde
-UTE Três Lagoas - UTE TLG,20/05/2026,Chuva fraca,16,22,73,6,Alto,Amarelo,3.46,44,7,18,SO,28,Verde
+UTE Juiz de Fora - UTE JF,22/05/2026,Sem chuva,15,18,81,2,Baixo,Verde,0.52,18,6,27,SE,20,Verde
+UTE Juiz de Fora - UTE JF,23/05/2026,Sem chuva,16,16,93,0,Baixo,Verde,0.06,3,5,12,E,7,Verde
+UTE Três Lagoas - UTE TLG,19/05/2026,Sem chuva,16,21,71,6,Alto,Amarelo,0.92,40,8,20,SO,27,Amarelo
+UTE Três Lagoas - UTE TLG,20/05/2026,Chuva fraca,16,22,73,6,Alto,Amarelo,3.46,44,7,18,SO,28,Amarelo
 UTE Três Lagoas - UTE TLG,21/05/2026,Sem chuva,15,24,62,5,Moderado,Verde,0.0,3,7,17,S,10,Verde
-UTE Três Lagoas - UTE TLG,22/05/2026,Sem chuva,19,20,84,0,Baixo,Verde,0.0,0,7,15,S,7,Verde
-Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,19/05/2026,Chuva fraca,21,22,89,1,Baixo,Verde,4.02,99,7,23,SO,52,Amarelo
-Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,20/05/2026,Chuva fraca,20,23,81,4,Moderado,Verde,3.26,72,5,22,SO,41,Amarelo
-Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,21/05/2026,Chuva fraca,19,20,76,0,Baixo,Verde,4.22,98,4,16,SO,48,Amarelo
-Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,22/05/2026,Sem chuva,19,19,81,0,Baixo,Verde,0.12,64,4,10,SE,30,Amarelo
-Refinaria Presidente Bernardes - RPBC,19/05/2026,Chuva fraca,19,20,91,1,Baixo,Verde,5.4,99,5,17,SO,48,Amarelo
-Refinaria Presidente Bernardes - RPBC,20/05/2026,Chuva fraca,18,22,81,4,Moderado,Verde,2.06,77,5,18,SO,40,Amarelo
-Refinaria Presidente Bernardes - RPBC,21/05/2026,Chuva fraca,18,19,81,1,Baixo,Verde,5.08,96,6,19,S,48,Amarelo
-Refinaria Presidente Bernardes - RPBC,22/05/2026,Sem chuva,18,18,90,0,Baixo,Verde,0.48,69,7,17,S,36,Amarelo
-UTE Cubatão - UTE CBT,19/05/2026,Chuva fraca,19,20,91,1,Baixo,Verde,5.4,99,5,18,SO,49,Amarelo
-UTE Cubatão - UTE CBT,20/05/2026,Chuva fraca,18,22,81,4,Moderado,Verde,2.06,84,5,19,SO,44,Amarelo
-UTE Cubatão - UTE CBT,21/05/2026,Chuva fraca,18,19,81,1,Baixo,Verde,5.08,98,6,17,S,48,Amarelo
-UTE Cubatão - UTE CBT,22/05/2026,Sem chuva,18,18,90,0,Baixo,Verde,0.48,88,7,15,S,43,Amarelo
-Refinaria Henrique Lage - REVAP,19/05/2026,Chuva fraca,17,19,84,2,Baixo,Verde,1.04,62,6,14,SO,32,Amarelo
-Refinaria Henrique Lage - REVAP,20/05/2026,Chuva fraca,16,20,79,5,Moderado,Verde,3.34,66,4,19,SO,39,Amarelo
-Refinaria Henrique Lage - REVAP,21/05/2026,Chuva fraca,15,19,75,2,Baixo,Verde,1.96,56,6,27,S,36,Amarelo
-Refinaria Henrique Lage - REVAP,22/05/2026,Sem chuva,15,15,87,0,Baixo,Verde,0.06,5,4,13,E,8,Verde
-Refinaria de Capuava - RECAP,19/05/2026,Chuva fraca,16,17,89,2,Baixo,Verde,1.44,96,7,18,S,48,Amarelo
-Refinaria de Capuava - RECAP,20/05/2026,Chuva fraca,15,19,77,4,Moderado,Verde,2.32,68,6,21,S,38,Amarelo
+UTE Três Lagoas - UTE TLG,22/05/2026,Sem chuva,17,24,64,4,Moderado,Verde,0.12,10,8,19,S,17,Verde
+UTE Três Lagoas - UTE TLG,23/05/2026,Sem chuva,19,20,82,0,Baixo,Verde,0.02,12,11,23,S,20,Verde
+Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,19/05/2026,Chuva fraca,21,22,89,1,Baixo,Verde,4.02,99,7,23,SO,52,Verde
+Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,20/05/2026,Chuva fraca,20,23,81,4,Moderado,Verde,3.26,72,5,22,SO,41,Verde
+Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,21/05/2026,Chuva fraca,19,20,76,0,Baixo,Verde,4.22,98,4,16,SO,48,Verde
+Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,22/05/2026,Chuva fraca,19,21,81,2,Baixo,Verde,2.62,64,4,13,SE,32,Verde
+Unidade de Tratamento de Gás de Caraguatatuba - UTGCA,23/05/2026,Sem chuva,20,20,91,0,Baixo,Verde,0.62,76,5,14,E,37,Verde
+Refinaria Presidente Bernardes - RPBC,19/05/2026,Chuva fraca,19,20,91,1,Baixo,Verde,5.4,99,5,17,SO,48,Verde
+Refinaria Presidente Bernardes - RPBC,20/05/2026,Chuva fraca,18,22,81,4,Moderado,Verde,2.06,77,5,18,SO,40,Verde
+Refinaria Presidente Bernardes - RPBC,21/05/2026,Chuva fraca,18,19,81,1,Baixo,Verde,5.08,96,6,19,S,48,Verde
+Refinaria Presidente Bernardes - RPBC,22/05/2026,Chuva fraca,18,19,89,1,Baixo,Verde,7.6,74,6,17,S,38,Verde
+Refinaria Presidente Bernardes - RPBC,23/05/2026,Chuva fraca,19,19,96,0,Baixo,Verde,2.26,88,4,12,SO,41,Verde
+UTE Cubatão - UTE CBT,19/05/2026,Chuva fraca,19,20,91,1,Baixo,Verde,5.4,99,5,18,SO,49,Verde
+UTE Cubatão - UTE CBT,20/05/2026,Chuva fraca,18,22,81,4,Moderado,Verde,2.06,84,5,19,SO,44,Verde
+UTE Cubatão - UTE CBT,21/05/2026,Chuva fraca,18,19,81,1,Baixo,Verde,5.08,98,6,17,S,48,Verde
+UTE Cubatão - UTE CBT,22/05/2026,Chuva fraca,18,19,89,1,Baixo,Verde,7.6,88,6,15,S,43,Verde
+UTE Cubatão - UTE CBT,23/05/2026,Chuva fraca,19,19,96,0,Baixo,Verde,2.26,90,4,12,SO,42,Verde
+Refinaria Henrique Lage - REVAP,19/05/2026,Chuva fraca,17,19,84,2,Baixo,Verde,1.04,62,6,14,SO,32,Verde
+Refinaria Henrique Lage - REVAP,20/05/2026,Chuva fraca,16,20,79,5,Moderado,Verde,3.34,66,4,19,SO,39,Verde
+Refinaria Henrique Lage - REVAP,21/05/2026,Chuva fraca,15,19,75,2,Baixo,Verde,1.96,56,6,27,S,36,Verde
+Refinaria Henrique Lage - REVAP,22/05/2026,Sem chuva,15,19,73,4,Moderado,Verde,0.26,26,6,18,SE,19,Verde
+Refinaria Henrique Lage - REVAP,23/05/2026,Sem chuva,16,17,88,0,Baixo,Verde,0.04,38,4,11,SE,20,Verde
+Refinaria de Capuava - RECAP,19/05/2026,Chuva fraca,16,17,89,2,Baixo,Verde,1.44,96,7,18,S,48,Verde
+Refinaria de Capuava - RECAP,20/05/2026,Chuva fraca,15,19,77,4,Moderado,Verde,2.32,68,6,21,S,38,Verde
 Refinaria de Capuava - RECAP,21/05/2026,Sem chuva,14,16,83,2,Baixo,Verde,0.4,88,10,30,SE,50,Amarelo
-Refinaria de Capuava - RECAP,22/05/2026,Sem chuva,14,14,92,0,Baixo,Verde,0.08,68,11,24,SE,39,Amarelo
-Refinaria de Paulínia - REPLAN,19/05/2026,Sem chuva,18,21,80,2,Baixo,Verde,0.64,50,5,15,S,30,Amarelo
-Refinaria de Paulínia - REPLAN,20/05/2026,Sem chuva,16,22,71,5,Moderado,Verde,0.82,54,6,22,S,36,Amarelo
-Refinaria de Paulínia - REPLAN,21/05/2026,Sem chuva,16,23,58,6,Alto,Amarelo,0.02,2,12,37,SE,19,Verde
-Refinaria de Paulínia - REPLAN,22/05/2026,Sem chuva,16,16,76,0,Baixo,Verde,0.0,0,18,35,SE,17,Verde
-UTE Nova Piratininga - UTE NPI,19/05/2026,Chuva fraca,15,17,89,2,Baixo,Verde,1.22,89,7,18,S,44,Amarelo
-UTE Nova Piratininga - UTE NPI,20/05/2026,Chuva fraca,15,19,76,5,Moderado,Verde,1.18,58,6,20,S,35,Amarelo
+Refinaria de Capuava - RECAP,22/05/2026,Chuva fraca,14,16,84,1,Baixo,Verde,1.74,68,10,24,SE,39,Verde
+Refinaria de Capuava - RECAP,23/05/2026,Chuva fraca,15,15,97,0,Baixo,Verde,1.08,82,6,17,SE,41,Verde
+Refinaria de Paulínia - REPLAN,19/05/2026,Sem chuva,18,21,80,2,Baixo,Verde,0.64,50,5,15,S,30,Verde
+Refinaria de Paulínia - REPLAN,20/05/2026,Sem chuva,16,22,71,5,Moderado,Verde,0.82,54,6,22,S,36,Verde
+Refinaria de Paulínia - REPLAN,21/05/2026,Sem chuva,16,23,58,6,Alto,Amarelo,0.02,2,12,37,SE,19,Amarelo
+Refinaria de Paulínia - REPLAN,22/05/2026,Sem chuva,16,22,64,5,Moderado,Verde,0.64,36,14,35,SE,32,Amarelo
+Refinaria de Paulínia - REPLAN,23/05/2026,Sem chuva,17,18,83,0,Baixo,Verde,0.76,50,12,25,SE,33,Verde
+UTE Nova Piratininga - UTE NPI,19/05/2026,Chuva fraca,15,17,89,2,Baixo,Verde,1.22,89,7,18,S,44,Verde
+UTE Nova Piratininga - UTE NPI,20/05/2026,Chuva fraca,15,19,76,5,Moderado,Verde,1.18,58,6,20,S,35,Verde
 UTE Nova Piratininga - UTE NPI,21/05/2026,Sem chuva,14,16,82,2,Baixo,Verde,0.42,50,11,31,SE,35,Amarelo
-UTE Nova Piratininga - UTE NPI,22/05/2026,Sem chuva,14,14,92,0,Baixo,Verde,0.08,24,12,26,SE,22,Verde
+UTE Nova Piratininga - UTE NPI,22/05/2026,Chuva fraca,14,16,86,1,Baixo,Verde,2.4,50,11,26,SE,33,Verde
+UTE Nova Piratininga - UTE NPI,23/05/2026,Chuva fraca,15,15,96,0,Baixo,Verde,1.6,75,8,20,SE,40,Verde
 Refinaria Presidente Getúlio Vargas - REPAR,19/05/2026,Sem chuva,12,17,77,2,Baixo,Verde,0.52,38,6,18,E,24,Verde
 Refinaria Presidente Getúlio Vargas - REPAR,20/05/2026,Sem chuva,12,19,57,5,Moderado,Verde,0.18,6,6,22,S,13,Verde
-Refinaria Presidente Getúlio Vargas - REPAR,21/05/2026,Sem chuva,11,17,62,5,Moderado,Verde,0.04,6,8,29,E,17,Verde
-Refinaria Presidente Getúlio Vargas - REPAR,22/05/2026,Sem chuva,11,11,88,0,Baixo,Verde,0.04,0,14,29,E,14,Verde
+Refinaria Presidente Getúlio Vargas - REPAR,21/05/2026,Sem chuva,11,17,62,5,Moderado,Verde,0.04,6,8,29,E,17,Amarelo
+Refinaria Presidente Getúlio Vargas - REPAR,22/05/2026,Chuva moderada,10,13,83,1,Baixo,Verde,12.86,89,10,29,E,50,Amarelo
+Refinaria Presidente Getúlio Vargas - REPAR,23/05/2026,Chuva fraca,11,11,97,0,Baixo,Verde,4.62,94,8,19,E,47,Verde
 Refinaria Alberto Pasqualini - REFAP,19/05/2026,Sem chuva,10,17,53,5,Moderado,Verde,0.0,0,7,25,O,12,Verde
-Refinaria Alberto Pasqualini - REFAP,20/05/2026,Sem chuva,7,17,49,5,Moderado,Verde,0.0,0,9,30,O,15,Verde
+Refinaria Alberto Pasqualini - REFAP,20/05/2026,Sem chuva,7,17,49,5,Moderado,Verde,0.0,0,9,30,O,15,Amarelo
 Refinaria Alberto Pasqualini - REFAP,21/05/2026,Sem chuva,9,15,56,4,Moderado,Verde,0.0,0,5,13,SO,6,Verde
-Refinaria Alberto Pasqualini - REFAP,22/05/2026,Sem chuva,10,10,74,0,Baixo,Verde,0.0,0,5,10,E,5,Verde
+Refinaria Alberto Pasqualini - REFAP,22/05/2026,Sem chuva,8,18,58,4,Moderado,Verde,0.02,1,5,20,SE,10,Verde
+Refinaria Alberto Pasqualini - REFAP,23/05/2026,Sem chuva,12,13,88,0,Baixo,Verde,0.0,1,7,16,SE,8,Verde
 UTE Canoas - UTE CAN,19/05/2026,Sem chuva,10,17,52,5,Moderado,Verde,0.02,0,7,26,O,13,Verde
-UTE Canoas - UTE CAN,20/05/2026,Sem chuva,7,17,48,5,Moderado,Verde,0.0,0,11,31,NO,15,Verde
+UTE Canoas - UTE CAN,20/05/2026,Sem chuva,7,17,48,5,Moderado,Verde,0.0,0,11,31,NO,15,Amarelo
 UTE Canoas - UTE CAN,21/05/2026,Sem chuva,9,15,54,4,Moderado,Verde,0.02,0,5,15,SO,7,Verde
-UTE Canoas - UTE CAN,22/05/2026,Sem chuva,10,11,73,0,Baixo,Verde,0.0,1,5,11,E,5,Verde
-Armazém Rio de Janeiro,19/05/2026,Chuva fraca,22,24,77,2,Baixo,Verde,1.78,68,6,22,O,42,Amarelo
-Armazém Rio de Janeiro,20/05/2026,Chuva fraca,21,23,79,3,Moderado,Verde,6.42,89,5,16,O,48,Amarelo
-Armazém Rio de Janeiro,21/05/2026,Chuva fraca,20,21,81,0,Baixo,Verde,8.08,98,5,20,SO,53,Amarelo
-Armazém Rio de Janeiro,22/05/2026,Sem chuva,19,20,87,0,Baixo,Verde,0.06,44,4,7,NO,21,Verde
-CILEP - CENPES,19/05/2026,Chuva fraca,22,24,78,1,Baixo,Verde,1.46,68,7,23,O,41,Amarelo
-CILEP - CENPES,20/05/2026,Chuva fraca,21,23,81,3,Moderado,Verde,7.34,89,5,18,O,49,Amarelo
-CILEP - CENPES,21/05/2026,Chuva fraca,20,21,80,0,Baixo,Verde,7.94,98,6,22,SO,54,Amarelo
-CILEP - CENPES,22/05/2026,Sem chuva,20,20,87,0,Baixo,Verde,0.1,44,3,6,NO,21,Verde
-Porto Baia de Guanabara,19/05/2026,Chuva fraca,22,24,80,1,Baixo,Verde,1.56,68,9,25,O,43,Amarelo
-Porto Baia de Guanabara,20/05/2026,Chuva fraca,22,23,80,3,Moderado,Verde,7.58,89,7,21,SO,51,Amarelo
-Porto Baia de Guanabara,21/05/2026,Chuva fraca,21,22,76,0,Baixo,Verde,7.96,98,7,23,SO,55,Amarelo
-Porto Baia de Guanabara,22/05/2026,Sem chuva,20,20,81,0,Baixo,Verde,0.14,44,3,8,O,22,Verde
-ARM Macaé - Armazém Macaé,19/05/2026,Chuva fraca,22,25,74,3,Moderado,Verde,2.32,94,8,24,SO,57,Amarelo
-ARM Macaé - Armazém Macaé,20/05/2026,Chuva fraca,22,23,81,3,Moderado,Verde,6.3,94,10,22,SO,54,Amarelo
+UTE Canoas - UTE CAN,22/05/2026,Sem chuva,8,18,58,4,Moderado,Verde,0.0,1,6,21,SE,11,Verde
+UTE Canoas - UTE CAN,23/05/2026,Sem chuva,13,13,88,0,Baixo,Verde,0.0,0,9,21,SE,10,Verde
+Armazém Rio de Janeiro,19/05/2026,Chuva fraca,22,24,77,2,Baixo,Verde,1.78,68,6,22,O,42,Verde
+Armazém Rio de Janeiro,20/05/2026,Chuva fraca,21,23,79,3,Moderado,Verde,6.42,89,5,16,O,48,Verde
+Armazém Rio de Janeiro,21/05/2026,Chuva fraca,20,21,81,0,Baixo,Verde,8.08,98,5,20,SO,53,Verde
+Armazém Rio de Janeiro,22/05/2026,Sem chuva,19,22,71,5,Moderado,Verde,0.34,44,4,15,SO,25,Verde
+Armazém Rio de Janeiro,23/05/2026,Sem chuva,20,20,86,0,Baixo,Verde,0.06,17,3,8,E,10,Verde
+CILEP - CENPES,19/05/2026,Chuva fraca,22,24,78,1,Baixo,Verde,1.46,68,7,23,O,41,Verde
+CILEP - CENPES,20/05/2026,Chuva fraca,21,23,81,3,Moderado,Verde,7.34,89,5,18,O,49,Verde
+CILEP - CENPES,21/05/2026,Chuva fraca,20,21,80,0,Baixo,Verde,7.94,98,6,22,SO,54,Verde
+CILEP - CENPES,22/05/2026,Sem chuva,19,22,72,5,Moderado,Verde,0.44,44,4,16,SO,26,Verde
+CILEP - CENPES,23/05/2026,Sem chuva,20,21,86,0,Baixo,Verde,0.08,17,4,9,E,11,Verde
+Porto Baia de Guanabara,19/05/2026,Chuva fraca,22,24,80,1,Baixo,Verde,1.56,68,9,25,O,43,Verde
+Porto Baia de Guanabara,20/05/2026,Chuva fraca,22,23,80,3,Moderado,Verde,7.58,89,7,21,SO,51,Verde
+Porto Baia de Guanabara,21/05/2026,Chuva fraca,21,22,76,0,Baixo,Verde,7.96,98,7,23,SO,55,Verde
+Porto Baia de Guanabara,22/05/2026,Sem chuva,19,22,70,5,Moderado,Verde,0.5,44,4,17,SO,26,Verde
+Porto Baia de Guanabara,23/05/2026,Sem chuva,21,21,84,0,Baixo,Verde,0.08,17,6,12,E,13,Verde
+ARM Macaé - Armazém Macaé,19/05/2026,Chuva fraca,22,25,74,3,Moderado,Verde,2.32,94,8,24,SO,57,Verde
+ARM Macaé - Armazém Macaé,20/05/2026,Chuva fraca,22,23,81,3,Moderado,Verde,6.3,94,10,22,SO,54,Verde
 ARM Macaé - Armazém Macaé,21/05/2026,Chuva fraca,20,22,83,1,Baixo,Verde,8.48,99,14,29,SO,58,Amarelo
-ARM Macaé - Armazém Macaé,22/05/2026,Sem chuva,20,20,82,0,Baixo,Verde,0.06,35,13,19,SO,23,Verde
-Porto de Imbetiba - Macaé,19/05/2026,Chuva fraca,22,25,75,3,Moderado,Verde,2.28,88,8,23,SO,54,Amarelo
-Porto de Imbetiba - Macaé,20/05/2026,Chuva fraca,22,23,82,3,Moderado,Verde,6.22,95,11,22,SO,55,Amarelo
+ARM Macaé - Armazém Macaé,22/05/2026,Sem chuva,20,22,73,3,Moderado,Verde,0.4,35,9,19,SO,23,Verde
+ARM Macaé - Armazém Macaé,23/05/2026,Sem chuva,20,21,86,0,Baixo,Verde,0.1,26,5,10,S,15,Verde
+Porto de Imbetiba - Macaé,19/05/2026,Chuva fraca,22,25,75,3,Moderado,Verde,2.28,88,8,23,SO,54,Verde
+Porto de Imbetiba - Macaé,20/05/2026,Chuva fraca,22,23,82,3,Moderado,Verde,6.22,95,11,22,SO,55,Verde
 Porto de Imbetiba - Macaé,21/05/2026,Chuva fraca,21,22,82,1,Baixo,Verde,8.7,92,14,30,SO,57,Amarelo
-Porto de Imbetiba - Macaé,22/05/2026,Sem chuva,20,20,82,0,Baixo,Verde,0.04,44,13,21,SO,28,Verde
-Porto Açu,19/05/2026,Chuva fraca,23,26,71,2,Baixo,Verde,1.08,66,10,25,S,44,Amarelo
-Porto Açu,20/05/2026,Chuva fraca,22,25,72,4,Moderado,Verde,6.76,90,11,26,SO,55,Amarelo
+Porto de Imbetiba - Macaé,22/05/2026,Sem chuva,20,22,74,3,Moderado,Verde,0.24,44,9,21,SO,28,Verde
+Porto de Imbetiba - Macaé,23/05/2026,Sem chuva,20,21,87,0,Baixo,Verde,0.06,24,5,9,S,14,Verde
+Porto Açu,19/05/2026,Chuva fraca,23,26,71,2,Baixo,Verde,1.08,66,10,25,S,44,Verde
+Porto Açu,20/05/2026,Chuva fraca,22,25,72,4,Moderado,Verde,6.76,90,11,26,SO,55,Verde
 Porto Açu,21/05/2026,Chuva fraca,21,23,81,1,Baixo,Verde,4.7,92,15,33,SO,59,Amarelo
-Porto Açu,22/05/2026,Sem chuva,22,22,74,0,Baixo,Verde,0.04,52,18,32,S,37,Amarelo
+Porto Açu,22/05/2026,Sem chuva,21,23,72,4,Moderado,Verde,0.5,52,12,32,S,37,Amarelo
+Porto Açu,23/05/2026,Sem chuva,22,22,82,0,Baixo,Verde,0.18,17,7,11,SE,12,Verde
 Porto Aratu,19/05/2026,Sem chuva,23,30,58,7,Alto,Amarelo,0.78,72,6,23,SE,42,Amarelo
 Porto Aratu,20/05/2026,Chuva fraca,23,28,67,7,Alto,Amarelo,3.56,68,6,24,SE,46,Amarelo
 Porto Aratu,21/05/2026,Chuva fraca,23,28,74,6,Alto,Amarelo,9.38,54,8,26,S,40,Amarelo
-Porto Aratu,22/05/2026,Sem chuva,24,24,90,0,Baixo,Verde,0.88,20,7,18,SE,19,Verde
+Porto Aratu,22/05/2026,Chuva fraca,23,28,70,6,Alto,Amarelo,4.34,68,10,29,SE,47,Amarelo
+Porto Aratu,23/05/2026,Sem chuva,24,24,88,0,Baixo,Verde,0.42,34,8,22,SE,26,Verde
 Porto TMIB,19/05/2026,Sem chuva,23,29,59,7,Alto,Amarelo,0.46,34,8,27,SE,29,Amarelo
 Porto TMIB,20/05/2026,Chuva fraca,23,29,65,7,Alto,Amarelo,1.14,50,9,28,SE,39,Amarelo
 Porto TMIB,21/05/2026,Chuva fraca,23,28,68,7,Alto,Amarelo,3.12,84,7,26,SE,53,Amarelo
-Porto TMIB,22/05/2026,Sem chuva,24,24,84,0,Baixo,Verde,0.02,28,7,13,SE,18,Verde
-Porto Belém,19/05/2026,Chuva fraca,24,32,62,8,Muito Alto,Vermelho,4.02,93,6,23,SE,72,Vermelho
-Porto Belém,20/05/2026,Chuva fraca,24,31,68,8,Muito Alto,Vermelho,7.86,100,5,21,E,79,Vermelho
-Porto Belém,21/05/2026,Chuva fraca,24,32,62,8,Muito Alto,Vermelho,5.9,68,7,23,E,57,Amarelo
-Porto Belém,22/05/2026,Sem chuva,26,26,87,0,Baixo,Verde,0.44,34,7,21,E,35,Amarelo
+Porto TMIB,22/05/2026,Chuva fraca,23,28,69,7,Alto,Amarelo,3.12,63,11,30,SE,46,Amarelo
+Porto TMIB,23/05/2026,Sem chuva,24,25,86,0,Baixo,Verde,0.74,56,10,21,SE,35,Verde
+Porto Belém,19/05/2026,Chuva fraca,24,32,62,8,Muito Alto,Amarelo,4.02,93,6,23,SE,72,Amarelo
+Porto Belém,20/05/2026,Chuva fraca,24,31,68,8,Muito Alto,Amarelo,7.86,100,5,21,E,79,Amarelo
+Porto Belém,21/05/2026,Chuva fraca,24,32,62,8,Muito Alto,Amarelo,5.9,68,7,23,E,57,Amarelo
+Porto Belém,22/05/2026,Chuva fraca,24,32,58,8,Muito Alto,Amarelo,2.96,72,7,21,E,56,Amarelo
+Porto Belém,23/05/2026,Chuva fraca,26,26,90,0,Baixo,Verde,1.04,32,7,20,NE,41,Verde
 Porto Valença,19/05/2026,Sem chuva,21,30,57,7,Alto,Amarelo,0.42,20,6,23,S,21,Amarelo
 Porto Valença,20/05/2026,Chuva fraca,22,27,69,7,Alto,Amarelo,4.16,94,6,25,S,58,Amarelo
-Porto Valença,21/05/2026,Chuva fraca,21,27,71,1,Baixo,Verde,1.56,43,7,28,S,33,Amarelo
-Porto Valença,22/05/2026,Sem chuva,23,23,91,0,Baixo,Verde,0.04,25,4,13,S,17,Verde
-Porto Guamaré,19/05/2026,Sem chuva,24,31,55,8,Muito Alto,Vermelho,0.0,0,20,35,SE,25,Amarelo
-Porto Guamaré,20/05/2026,Sem chuva,24,31,57,8,Muito Alto,Vermelho,0.06,20,21,35,SE,36,Amarelo
-Porto Guamaré,21/05/2026,Sem chuva,24,31,56,8,Muito Alto,Vermelho,0.1,24,21,36,SE,37,Amarelo
-Porto Guamaré,22/05/2026,Sem chuva,25,26,78,0,Baixo,Verde,0.0,0,23,36,SE,22,Verde
-Porto Mucuripe,19/05/2026,Sem chuva,25,30,60,8,Muito Alto,Vermelho,0.68,38,15,38,SE,43,Amarelo
-Porto Mucuripe,20/05/2026,Sem chuva,25,30,62,8,Muito Alto,Vermelho,0.44,10,15,38,SE,33,Amarelo
-Porto Mucuripe,21/05/2026,Chuva fraca,25,30,60,8,Muito Alto,Vermelho,1.34,40,15,36,SE,47,Amarelo
-Porto Mucuripe,22/05/2026,Sem chuva,27,27,82,0,Baixo,Verde,0.04,17,10,18,SE,29,Verde
-Porto Paracuru,19/05/2026,Sem chuva,24,30,60,8,Muito Alto,Vermelho,0.26,36,16,36,SE,41,Amarelo
-Porto Paracuru,20/05/2026,Sem chuva,24,31,60,8,Muito Alto,Vermelho,0.0,2,16,37,SE,30,Amarelo
+Porto Valença,21/05/2026,Chuva fraca,21,27,71,1,Baixo,Verde,1.56,43,7,28,S,33,Verde
+Porto Valença,22/05/2026,Chuva fraca,21,27,73,6,Alto,Amarelo,3.3,66,8,34,S,48,Amarelo
+Porto Valença,23/05/2026,Sem chuva,22,23,95,0,Baixo,Verde,0.46,71,5,14,SO,36,Verde
+Porto Guamaré,19/05/2026,Sem chuva,24,31,55,8,Muito Alto,Amarelo,0.0,0,20,35,SE,25,Amarelo
+Porto Guamaré,20/05/2026,Sem chuva,24,31,57,8,Muito Alto,Amarelo,0.06,20,21,35,SE,36,Amarelo
+Porto Guamaré,21/05/2026,Sem chuva,24,31,56,8,Muito Alto,Amarelo,0.1,24,21,36,SE,37,Amarelo
+Porto Guamaré,22/05/2026,Sem chuva,24,31,53,8,Muito Alto,Amarelo,0.0,2,20,36,SE,28,Amarelo
+Porto Guamaré,23/05/2026,Sem chuva,26,26,75,0,Baixo,Verde,0.0,0,24,37,SE,21,Amarelo
+Porto Mucuripe,19/05/2026,Sem chuva,25,30,60,8,Muito Alto,Amarelo,0.68,38,15,38,SE,43,Amarelo
+Porto Mucuripe,20/05/2026,Sem chuva,25,30,62,8,Muito Alto,Amarelo,0.44,10,15,38,SE,33,Amarelo
+Porto Mucuripe,21/05/2026,Chuva fraca,25,30,60,8,Muito Alto,Amarelo,1.34,40,15,36,SE,47,Amarelo
+Porto Mucuripe,22/05/2026,Sem chuva,26,30,57,8,Muito Alto,Amarelo,0.88,30,14,35,SE,43,Amarelo
+Porto Mucuripe,23/05/2026,Sem chuva,27,27,75,0,Baixo,Verde,0.0,8,11,20,E,26,Verde
+Porto Paracuru,19/05/2026,Sem chuva,24,30,60,8,Muito Alto,Amarelo,0.26,36,16,36,SE,41,Amarelo
+Porto Paracuru,20/05/2026,Sem chuva,24,31,60,8,Muito Alto,Amarelo,0.0,2,16,37,SE,30,Amarelo
 Porto Paracuru,21/05/2026,Sem chuva,25,30,62,7,Alto,Amarelo,0.22,23,16,36,SE,40,Amarelo
-Porto Paracuru,22/05/2026,Sem chuva,26,26,84,0,Baixo,Verde,0.0,11,12,24,E,29,Verde
+Porto Paracuru,22/05/2026,Sem chuva,25,31,57,8,Muito Alto,Amarelo,0.26,21,15,35,SE,39,Amarelo
+Porto Paracuru,23/05/2026,Sem chuva,27,27,78,0,Baixo,Verde,0.0,2,12,22,E,24,Verde
