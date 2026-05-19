@@ -41,6 +41,10 @@ function montarCards(dados) {
 
     //////////////////////////////////////////////////////////////
 
+    grid.innerHTML = ""
+
+    //////////////////////////////////////////////////////////////
+
     const agrupado = {}
 
     dados.forEach(item => {
@@ -62,14 +66,20 @@ function montarCards(dados) {
         const previsoes =
             agrupado[estacao]
 
+        //////////////////////////////////////////////////////////
+
         const risco =
             previsoes[0].risco
-                .toLowerCase()
+                ?.toLowerCase()
 
         //////////////////////////////////////////////////////////
 
         const card =
             document.createElement("div")
+
+        //////////////////////////////////////////////////////////
+        // CLASSE DO CARD
+        //////////////////////////////////////////////////////////
 
         card.className =
             `card ${risco}`
@@ -86,6 +96,27 @@ function montarCards(dados) {
 
         previsoes.forEach(p => {
 
+            //////////////////////////////////////////////////////
+            // COR UV
+            //////////////////////////////////////////////////////
+
+            let corUV = ""
+
+            if (p.risco_uv === "Verde") {
+
+                corUV = "#00c853"
+
+            } else if (p.risco_uv === "Amarelo") {
+
+                corUV = "#ffd600"
+
+            } else {
+
+                corUV = "#ff1744"
+            }
+
+            //////////////////////////////////////////////////////
+
             html += `
 
                 <div class="dia">
@@ -101,8 +132,13 @@ function montarCards(dados) {
 🌡️ ${p.temp_min}° |
 ${p.temp_max}°<br>
 
+<span style="
+color:${corUV};
+font-weight:bold;
+">
 ☀️ UV: ${p.uv}
-(${p.categoria_uv})<br>
+(${p.categoria_uv})
+</span><br>
 
 ⚡ ${p.prob_raios}%<br>
 
