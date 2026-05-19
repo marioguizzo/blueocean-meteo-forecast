@@ -106,7 +106,7 @@ ${p.temp_max}°<br>
 
 ⚡ ${p.prob_raios}%<br>
 
-💨 ${p.vento} km/h
+💨 ${p.rajada} km/h
 
                     </div>
 
