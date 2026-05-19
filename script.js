@@ -34,6 +34,26 @@ async function carregarCSV() {
 
 //////////////////////////////////////////////////////////////////
 
+function obterCorRisco(risco) {
+
+    risco = risco?.toLowerCase()
+
+    if (risco === "verde") {
+
+        return "#00c853"
+
+    } else if (risco === "amarelo") {
+
+        return "#ffd600"
+
+    } else {
+
+        return "#ff1744"
+    }
+}
+
+//////////////////////////////////////////////////////////////////
+
 function montarCards(dados) {
 
     const grid =
@@ -70,7 +90,6 @@ function montarCards(dados) {
 
         const risco =
             previsoes[0].risco
-                ?.toLowerCase()
 
         //////////////////////////////////////////////////////////
 
@@ -78,11 +97,9 @@ function montarCards(dados) {
             document.createElement("div")
 
         //////////////////////////////////////////////////////////
-        // CLASSE DO CARD
-        //////////////////////////////////////////////////////////
 
         card.className =
-            `card ${risco}`
+            `card ${risco?.toLowerCase()}`
 
         //////////////////////////////////////////////////////////
 
@@ -97,22 +114,59 @@ function montarCards(dados) {
         previsoes.forEach(p => {
 
             //////////////////////////////////////////////////////
-            // COR UV
+            // CORES
             //////////////////////////////////////////////////////
 
-            let corUV = ""
+            const corUV =
+                obterCorRisco(p.risco_uv)
 
-            if (p.risco_uv === "Verde") {
+            const corRaios =
+                obterCorRisco(p.risco)
 
-                corUV = "#00c853"
+            //////////////////////////////////////////////////////
+            // CHUVA
+            //////////////////////////////////////////////////////
 
-            } else if (p.risco_uv === "Amarelo") {
+            let corChuva = ""
 
-                corUV = "#ffd600"
+            if (
+                p.condicao === "Sem chuva"
+            ) {
+
+                corChuva = "#00c853"
+
+            } else if (
+                p.condicao === "Chuva fraca" ||
+                p.condicao === "Chuva moderada"
+            ) {
+
+                corChuva = "#ffd600"
 
             } else {
 
-                corUV = "#ff1744"
+                corChuva = "#ff1744"
+            }
+
+            //////////////////////////////////////////////////////
+            // VENTO
+            //////////////////////////////////////////////////////
+
+            let corVento = ""
+
+            const rajada =
+                Number(p.rajada)
+
+            if (rajada <= 28) {
+
+                corVento = "#00c853"
+
+            } else if (rajada <= 40) {
+
+                corVento = "#ffd600"
+
+            } else {
+
+                corVento = "#ff1744"
             }
 
             //////////////////////////////////////////////////////
@@ -127,10 +181,19 @@ function montarCards(dados) {
 
                     <div class="info">
 
-🌧️ ${p.condicao}<br>
+<span style="
+color:${corChuva};
+font-weight:bold;
+">
+🌧️ ${p.condicao}
+</span><br>
 
+<span style="
+font-weight:bold;
+">
 🌡️ ${p.temp_min}° |
-${p.temp_max}°<br>
+${p.temp_max}°
+</span><br>
 
 <span style="
 color:${corUV};
@@ -140,9 +203,19 @@ font-weight:bold;
 (${p.categoria_uv})
 </span><br>
 
-⚡ ${p.prob_raios}%<br>
+<span style="
+color:${corRaios};
+font-weight:bold;
+">
+⚡ ${p.prob_raios}%
+</span><br>
 
+<span style="
+color:${corVento};
+font-weight:bold;
+">
 💨 ${p.rajada} km/h
+</span>
 
                     </div>
 
